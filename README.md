@@ -2,7 +2,9 @@
 
 
 ### Hey there 👋
-I'm currently studying at Zone01 Rouen, Normandy in order to become a full stack developper. 
+I'm currently studying at Zone01 Rouen, Normandy, in order to become a full stack developper.
+To this end, I'm also looking for an apprenticeship and start working in dev "for real". 
+
 <!--
 **0bIivi0n/0bIivi0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
