@@ -3,7 +3,7 @@
 
 ### Hello there 👋
 I'm currently studying at <a href="https://zone01normandie.org/">Zone01 Rouen </a>, Normandy, in order to become a full stack developper.
-To this end, I'm also looking for an apprenticeship and start working in dev "for real". 
+To this end, I'm also looking for an apprenticeship and to start working in dev "for real". 
 
 ### Training
 To this day, I've been learning code mostly with C# (via the <a href="https://learn.unity.com/">Unity Learn </a> program), front-end (HTML, CSS, jQuery) online courses (with <a href="https://openclassrooms.com/">OpenClassrooms </a>), 
