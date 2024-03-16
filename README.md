@@ -1,3 +1,6 @@
+![my Banner](https://github.com/0bIivi0n/0bIivi0n/assets/55022186/41b52f66-760b-48cf-9962-4e84c57829f6)
+
+
 ### Hi there 👋
 
 <!--
