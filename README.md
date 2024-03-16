@@ -1,4 +1,4 @@
-![my Banner](https://github.com/0bIivi0n/0bIivi0n/assets/55022186/41b52f66-760b-48cf-9962-4e84c57829f6)
+![my Banner](https://github.com/0bIivi0n/0bIivi0n/assets/55022186/42f7a22b-9d63-48dc-ab70-357b886b7245)
 
 
 ### Hello there fellow developers 👋 (we're on git, after all)
