@@ -6,7 +6,7 @@ I'm currently studying at Zone01 Rouen, Normandy, in order to become a full stac
 To this end, I'm also looking for an apprenticeship and start working in dev "for real". 
 
 ### Training
-To this day, I've been learning code mostly with C# (via the <a href="https://learn.unity.com/">Unity Learn </a> program), front-end online courses (with OpenClassrooms), 
+To this day, I've been learning code mostly with C# (via the <a href="https://learn.unity.com/">Unity Learn </a> program), front-end online courses (with <a href="https://openclassrooms.com/">OpenClassrooms </a>), 
 and recently GO and Javascript (vanilla), since I joined Zone01. Currently, I'm just begining learning React and other frameworks 
 commonly used in the dev industry. 
 
