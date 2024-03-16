@@ -13,6 +13,12 @@ commonly used in the dev industry.
 ### What I'm looking for
 I'm currently trying to find the company in which I will be able to keep learning and be a part of something that's bigger than myself.
 
+### More about me
+As long as I can remember, I was a big fan of video games. I was something like 10 when Final Fantasy 7 came out in Europe, which was my very first great adventure.
+For many years after that, I've been playing games and living many other of these adventures. It was only later, after several years working in the pharmaceutical industry,
+that I realized I was not happy with my job and I wanted to see what was "behind the scenes" of a video game. It's how I discovered programming and a whole new universe,
+much bigger than the video game industry itself, much bigger than I could even imagine.  
+
 <!--
 **0bIivi0n/0bIivi0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
