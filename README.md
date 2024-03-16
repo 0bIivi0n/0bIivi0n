@@ -16,7 +16,7 @@ I'm currently trying to find the company in which I will be able to keep learnin
 ### More about me
 As long as I can remember, I was a big fan of video games. I was something like 10 when Final Fantasy 7 came out in Europe, which was my very first great adventure.
 For many years after that, I've been playing games and living many other of these adventures. It was only later, after several years working in the pharmaceutical industry,
-that I realized I was not happy with my job and I wanted to see what was "behind the scenes" of a video game. It's how I discovered programming and a whole new universe,
+that I realized I was not happy with my job and I wanted to see what was "behind the scenes" of a video game. It's how I discovered programming and a whole new universe along with it,
 much bigger than the video game industry itself, much bigger than I could even imagine. 
 
 Of course, video games will always be a part of my life and i'll keep exploring this domain (at least by myself), but i'm eager to discover others as well.
