@@ -1,8 +1,8 @@
 ![my Banner](https://github.com/0bIivi0n/0bIivi0n/assets/55022186/41b52f66-760b-48cf-9962-4e84c57829f6)
 
 
-### Hi there 👋
-
+### Hey there 👋
+I'm currently studying at Zone01 Rouen, Normandy in order to become a full stack developper. 
 <!--
 **0bIivi0n/0bIivi0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
