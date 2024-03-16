@@ -1,7 +1,7 @@
 ![my Banner](https://github.com/0bIivi0n/0bIivi0n/assets/55022186/41b52f66-760b-48cf-9962-4e84c57829f6)
 
 
-### Hey there 👋
+### Hello there 👋
 I'm currently studying at <a href="https://zone01normandie.org/">Zone01 Rouen </a>, Normandy, in order to become a full stack developper.
 To this end, I'm also looking for an apprenticeship and start working in dev "for real". 
 
