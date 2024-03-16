@@ -20,7 +20,7 @@ that I realized I was not happy with my job and I wanted to see what was "behind
 much bigger than the video game industry itself, much bigger than I could even imagine. 
 
 Of course, video games will always be a part of my life and i'll keep exploring this domain (at least by myself), but i'm eager to discover others as well.
-That is why I decided to embark for the Full-Stack Developper trip, and see where it takes me ;)
+That is why I decided to embark for the Full-Stack Developper trip, and see where it takes me 🗺️🧭
 
 <!--
 **0bIivi0n/0bIivi0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
