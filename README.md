@@ -6,7 +6,7 @@ I'm currently studying at <a href="https://zone01normandie.org/">Zone01 Rouen </
 To this end, I'm also looking for an apprenticeship and start working in dev "for real". 
 
 ### Training
-To this day, I've been learning code mostly with C# (via the <a href="https://learn.unity.com/">Unity Learn </a> program), front-end (HTML, CSS, JS) online courses (with <a href="https://openclassrooms.com/">OpenClassrooms </a>), 
+To this day, I've been learning code mostly with C# (via the <a href="https://learn.unity.com/">Unity Learn </a> program), front-end (HTML, CSS, jQuery) online courses (with <a href="https://openclassrooms.com/">OpenClassrooms </a>), 
 and recently GO and Javascript (vanilla), since I joined Zone01. Currently, I'm just begining learning React and other frameworks 
 commonly used in the dev industry. 
 
