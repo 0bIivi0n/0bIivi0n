@@ -5,6 +5,11 @@
 I'm currently studying at Zone01 Rouen, Normandy, in order to become a full stack developper.
 To this end, I'm also looking for an apprenticeship and start working in dev "for real". 
 
+### Training
+To this day, I've been learning code mostly with C# (via the Unity Learn program), front-end online courses (with OpenClassrooms), 
+and recently GO and Javascript (vanilla), since I joined Zone01. Currently, I'm just begining learning React and other frameworks 
+commonly used in the dev industry. 
+
 <!--
 **0bIivi0n/0bIivi0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
