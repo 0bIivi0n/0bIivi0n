@@ -10,6 +10,9 @@ To this day, I've been learning code mostly with C# (via the <a href="https://le
 and recently GO and Javascript (vanilla), since I joined Zone01. Currently, I'm just begining learning React and other frameworks 
 commonly used in the dev industry. 
 
+### What I'm looking for
+I'm currently trying to find the company in which I will be able to keep learning and be a part of something that's bigger than myself.
+
 <!--
 **0bIivi0n/0bIivi0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
