@@ -2,7 +2,7 @@
 
 
 ### Hey there 👋
-I'm currently studying at Zone01 Rouen, Normandy, in order to become a full stack developper.
+I'm currently studying at <a href="https://zone01normandie.org/">Zone01 Rouen </a>, Normandy, in order to become a full stack developper.
 To this end, I'm also looking for an apprenticeship and start working in dev "for real". 
 
 ### Training
