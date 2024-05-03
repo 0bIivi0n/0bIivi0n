@@ -7,11 +7,10 @@ To this end, I'm also looking for an apprenticeship and to start working in dev 
 
 ### Training
 To this day, I've been learning code mostly with C# (via the <a href="https://learn.unity.com/">Unity Learn </a> program), front-end (HTML, CSS, jQuery) online courses (with <a href="https://openclassrooms.com/">OpenClassrooms </a>), 
-and recently GO and Javascript (vanilla), since I joined Zone01. Currently, I'm just begining learning React and other frameworks 
-commonly used in the dev industry. 
+and recently GO and Javascript (vanilla), since I joined Zone01.
 
 ### What I'm looking for
-I'm currently trying to find the company in which I will be able to keep learning and be a part of something that's bigger than myself.
+Currently, I'm mostly interested in learning languages used for Software Engineering and Video Games, such as C#, Java, C++ or Rust.
 
 ### More about me
 As long as I can remember, I was a big fan of video games. I was something like 10 when Final Fantasy 7 came out in Europe, which was my very first great adventure.
