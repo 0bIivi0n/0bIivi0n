@@ -6,7 +6,7 @@ My name is Aubry Varen, and I'm currently studying at <a href="https://zone01nor
 To this end, I'm also looking for an apprenticeship and to start working in dev "for real". 
 
 ### Training
-To this day, I've been learning code mostly with C# (via the <a href="https://learn.unity.com/">Unity Learn </a> program), front-end (HTML, CSS, jQuery) online courses (with <a href="https://openclassrooms.com/">OpenClassrooms </a>), 
+To this day, I've been learning code mostly with C# (with the <a href="https://learn.unity.com/">Unity Learn </a> program), front-end (HTML, CSS, jQuery) online courses (with <a href="https://openclassrooms.com/">OpenClassrooms </a>), 
 and recently GO and Javascript (vanilla), since I joined Zone01.
 
 ### What I'm looking for
